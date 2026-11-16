@@ -42,16 +42,9 @@ Omarchy menu and paste the repository URL.
 
 - Palette and theme files: made for Omarchy.
 - Black hole wallpaper: built from NASA's public-domain visualisations, then
-  looped, colour-graded and composited for this theme.
-  - *Black Hole with Accretion Disk Visualization* (SVS14619),
-    NASA/Goddard Space Flight Center — [NASA SVS](https://svs.gsfc.nasa.gov/14619),
-    via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_Hole_with_Accretion_Disk_Visualization_(SVS14619_-_2-Orbiting_a_black_hole-4K).webm).
-  - *Deep Star Maps 2020* (SVS4851), NASA/Goddard Space Flight Center —
-    [NASA SVS](https://svs.gsfc.nasa.gov/4851).
+  looped, colour-graded and composited for this theme. See [CREDITS.md](CREDITS.md)
+  for the sources.
 - Screenshot: a real Omarchy session running Neovim and fastfetch.
-
-NASA does not endorse this theme; the credit is attribution for public-domain
-imagery, not a claim of endorsement.
 
 ## License
 
@@ -60,3 +53,4 @@ License; see [LICENSE](LICENSE).
 
 The background video is a derivative of NASA public-domain imagery and is
 released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+See [CREDITS.md](CREDITS.md) for the attribution.
