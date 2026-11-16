@@ -1,17 +1,17 @@
-# Event Horizon
+# Black Hole
 
 A deep-space Omarchy theme: near-black blues, cool starlight text and a hot
 orange accent borrowed from the glowing edge of a black hole.
 
-![Event Horizon preview](preview.png)
+![Black Hole preview](preview.png)
 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/OWNER/omarchy-event-horizon-theme.git
+omarchy theme install https://github.com/Joeykrod/omarchy-black-hole-theme.git
 ```
 
-Omarchy clones the theme into `~/.config/omarchy/themes/event-horizon` and
+Omarchy clones the theme into `~/.config/omarchy/themes/black-hole` and
 applies it right away. You can also use **Install → Style → Theme** from the
 Omarchy menu and paste the repository URL.
 
