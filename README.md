@@ -3,7 +3,7 @@
 A deep-space Omarchy theme: near-black blues, cool starlight text and a hot
 orange accent borrowed from the glowing edge of a black hole.
 
-![Black Hole preview](preview.png)
+![Black Hole on the desktop: Neovim showing colors.toml beside a fastfetch terminal](preview.png)
 
 ## Install
 
@@ -41,10 +41,22 @@ Omarchy menu and paste the repository URL.
 ## Credits
 
 - Palette and theme files: made for Omarchy.
-- Black hole wallpaper: original render created for this theme
-  (1920×1080, 30 fps, 13.5 s loop).
+- Black hole wallpaper: built from NASA's public-domain visualisations, then
+  looped, colour-graded and composited for this theme.
+  - *Black Hole with Accretion Disk Visualization* (SVS14619),
+    NASA/Goddard Space Flight Center — [NASA SVS](https://svs.gsfc.nasa.gov/14619),
+    via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_Hole_with_Accretion_Disk_Visualization_(SVS14619_-_2-Orbiting_a_black_hole-4K).webm).
+  - *Deep Star Maps 2020* (SVS4851), NASA/Goddard Space Flight Center —
+    [NASA SVS](https://svs.gsfc.nasa.gov/4851).
+- Screenshot: a real Omarchy session running Neovim and fastfetch.
+
+NASA does not endorse this theme; the credit is attribution for public-domain
+imagery, not a claim of endorsement.
 
 ## License
 
-The theme files are released under the MIT License; see [LICENSE](LICENSE).
-The background video is covered by the same license unless noted otherwise.
+The theme files (palette, configs, screenshot) are released under the MIT
+License; see [LICENSE](LICENSE).
+
+The background video is a derivative of NASA public-domain imagery and is
+released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
