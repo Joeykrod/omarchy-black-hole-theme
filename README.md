@@ -21,7 +21,8 @@ Omarchy menu and paste the repository URL.
 | --- | --- |
 | `colors.toml` | The palette used by every themed app |
 | `backgrounds/1-black-hole.mp4` | 1920×1080, 30 fps looping wallpaper |
-| `preview.png` | Screenshot shown in the theme picker |
+| `preview.png` | 1920×1080 screenshot shown in the theme picker |
+| `CREDITS.md` | Image sources and licences |
 | `icons.theme` | Icon set paired with the theme |
 
 ## Palette
